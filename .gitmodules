@@ -1,3 +1,6 @@
 [submodule "basic-vector-demo"]
 	path = basic-vector-demo
 	url = https://github.com/shungheonchai/VectorMDB
+[submodule "Natural-Language-MQL"]
+	path = Natural-Language-MQL
+	url = https://github.com/patw/Natralang

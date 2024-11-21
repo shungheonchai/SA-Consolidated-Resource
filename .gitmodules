@@ -1,0 +1,3 @@
+[submodule "basic-vector-demo"]
+	path = basic-vector-demo
+	url = https://github.com/shungheonchai/VectorMDB

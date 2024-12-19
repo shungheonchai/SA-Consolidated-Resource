@@ -4,3 +4,9 @@
 [submodule "Natural-Language-MQL"]
 	path = Natural-Language-MQL
 	url = https://github.com/patw/Natralang
+[submodule "GenAI/Basic-Vector-Demo"]
+	path = GenAI/Basic-Vector-Demo
+	url = https://github.com/shungheonchai/VectorMDB.git
+[submodule "GenAI/NLP/Natural-Language-MQL"]
+	path = GenAI/NLP/Natural-Language-MQL
+	url = https://github.com/patw/Natralang.git

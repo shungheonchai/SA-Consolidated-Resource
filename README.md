@@ -14,3 +14,10 @@ Go to the specific submodule that you like and run the following
   * Creator: Shawn Chai [@shungheonchai](https://github.com/shungheonchai)
 * Natural Language MQL: 
   * Creator: Pat Wendorf [@patw](https://github.com/patw)
+
+
+### Future Upgrade
+* Docker & Kanopy integration so that a ready to go demo env could be obtained
+* Organization by specific categories or products
+  * P
+* Change the list into a table
